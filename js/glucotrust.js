@@ -1,0 +1,1 @@
+window.onscroll=function(){var e=100*document.documentElement.scrollTop/(document.documentElement.scrollHeight-document.documentElement.clientHeight);document.getElementById("glucotrust_topreadbar").style.width=e+"%"};
